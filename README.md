@@ -6,7 +6,6 @@ Kwargs is self-contained so you can simply copy-paste kwargs.py to your project.
 We are also working on creating a pypi project. Stay tuned.
 
 ## Usage
-
 ### Basic usage
 ```python
 from kwargs import App
@@ -53,3 +52,13 @@ Notice that you don't have to import Kwargs package anymore. It's because in
 this example we don't use it at all. Magic!
 
 We don't recommend using this style as it might be confusing for other developers that are not familiar with Kwargs framework. But heck, sometimes you just need to get job done.
+
+## FAQ
+### Is Kwargs the right framework for my project?
+Kwarks is currently the fastest python framework with minimum overhead and it doesn't
+limit usage of other tools and frameworks. As such it fits projects of all sizes.
+But it's specially good when you're writing small utility and your manager keeps asking
+what framework you use.
+
+### What should do I do when I find a bug?
+Before you submit pull request or file a ticket, please search Stack Owerflow. We have more then [36.000 answered questions](http://stackoverflow.com/search?q=kwargs) so you might find help there. If you still think, you find a bug, [file a ticket](https://github.com/JakubTesarek/kwargs/issues) or send a pull request.
