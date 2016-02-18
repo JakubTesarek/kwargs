@@ -53,6 +53,11 @@ this example we don't use it at all. Magic!
 
 We don't recommend using this style as it might be confusing for other developers that are not familiar with Kwargs framework. But heck, sometimes you just need to get job done.
 
+## Contributing
+- Create a branch. Only I can commit to master because it's my repository.
+- Run test with `$ py.test`
+- Run pylint `$ pylint kwargs tests`
+
 ## FAQ
 ### Is Kwargs the right framework for my project?
 Kwarks is currently the fastest python framework with minimum overhead and it doesn't
