@@ -1,6 +1,10 @@
 # Kwargs
 Kwargs is the only True python micro-framework that doesn't limit your creativity™.
 
+## Installation
+Kwargs is self-contained so you can simply copy-paste kwargs.py to your project.
+We are also working on creating a pypi project. Stay tuned.
+
 ## Usage
 
 ### Basic usage
