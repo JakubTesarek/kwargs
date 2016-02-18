@@ -1,0 +1,2 @@
+class App(object):
+    pass
