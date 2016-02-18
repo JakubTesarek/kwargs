@@ -1,0 +1,4 @@
+[MESSAGES CONTROL]
+# locally-disabled:
+# 	Reporting that someone turned off reporting doesn't make any sense
+disable=no-self-use, locally-disabled

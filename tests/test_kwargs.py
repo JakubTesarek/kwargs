@@ -1,3 +1,5 @@
+# pylint: disable=missing-docstring, invalid-name
+
 import pytest
 from kwargs.kwargs import App, run
 
