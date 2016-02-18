@@ -29,6 +29,6 @@ setup(
     keywords='framework',
     packages=find_packages(),
     extras_require={
-        'test': ['pytest', 'pylint'],
+        'test': ['pytest', 'pylint', 'pytest-cov'],
     }
 )

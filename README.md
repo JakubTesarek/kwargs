@@ -62,7 +62,7 @@ We don't recommend using this style as it might be confusing for other developer
 
 ## Contributing
 - Create a branch. Only I can commit to master because it's my repository.
-- Run test with `$ py.test`
+- Run tests with code coverage `$ py.test --cov=kwargs`
 - Run pylint `$ pylint kwargs tests`
 
 ## FAQ

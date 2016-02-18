@@ -8,5 +8,5 @@ install:
   - pip install -e .[test]
 
 script:
-  - py.test
+  - py.test --cov=kwargs
   - pylint kwargs tests
