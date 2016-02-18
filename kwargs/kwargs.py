@@ -1,3 +1,4 @@
+# coding=utf8
 #pylint: disable=too-few-public-methods
 u""" Kwargs is the only True python micro-framework that doesn't limit your creativity™. """
 
