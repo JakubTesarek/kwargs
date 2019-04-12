@@ -14,7 +14,7 @@ setup(
     long_description=long_description,
     url='https://github.com/JakubTesarek/kwargs',
     author='Jakub Tesárek',
-    author_email='mail@jakubtesarek.cz',
+    author_email='jakub@tesarek.me',
     license='GNU GPL v2',
     classifiers=[
         'Development Status :: 3 - Alpha',
