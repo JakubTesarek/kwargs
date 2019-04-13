@@ -1,11 +1,12 @@
 # pylint: disable=missing-docstring, invalid-name
 
 import pytest
-from kwargs.kwargs import App, run
+from kwargs import App, run
 
 def test_can_create_app():
     app = App(lambda: None)
     assert isinstance(app, App)
+
 
 @pytest.mark.parametrize('x,y,result', [
     (6, 2, 3),
