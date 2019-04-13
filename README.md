@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/JakubTesarek/kwargs.svg?branch=master)](https://travis-ci.org/JakubTesarek/kwargs)
-
 # Kwargs
 Kwargs is the only True python micro-framework that doesn't limit your creativity™.
 
