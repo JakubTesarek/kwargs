@@ -6,7 +6,7 @@ def run(callback, *args, **kwargs):
     return callback(*args, **kwargs)
 
 
-class App(object):
+class App():
     """ App represents Kwargs application instance. """
 
     def __init__(self, callback):
