@@ -2,8 +2,7 @@
 Kwargs is the only True python micro-framework that doesn't limit your creativity™.
 
 ## Requirments
-You need [Python >= 3.3](https://travis-ci.org/JakubTesarek/kwargs). You can
-probably use it with older versions, including Python 2 but our buid dependecies
+You need Python >= 3.3. You can probably use it with older versions, including Python 2 but our buid dependecies
 don't work in this version so we are not testing it.
 
 ## Installation
