@@ -8,7 +8,11 @@ don't work in this version so we are not testing it.
 
 ## Installation
 Kwargs is self-contained so you can simply copy-paste kwargs.py to your project.
-We are also working on creating a pypi project. Stay tuned.
+Or you can use `pip` and [download package from PyPi](https://pypi.org/project/kwargs/).
+
+```python
+pip install kwargs
+```
 
 ## Usage
 ### Basic usage
@@ -29,7 +33,7 @@ implement this logic yourself. It can do literally anything!
 When you want to then execute your code, simply call `app.run()`.
 
 ### Shorthand usage (for lead developers)
-Kwargs framework strifes for short and easy to read code. Therefore it provides you with shorthand execution. 
+Kwargs framework strifes for short and easy to read code. Therefore it provides you with shorthand execution.
 
 ```python
 from kwargs import run

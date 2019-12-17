@@ -9,6 +9,7 @@ with open('README.md') as readme:
 setup(
     name='kwargs',
     version='1.0.1',
+    python_requires='>=3.6',
     description='Python micro-framework',
     long_description=long_description,
     url='https://github.com/JakubTesarek/kwargs',
@@ -16,7 +17,7 @@ setup(
     author_email='jakub@tesarek.me',
     license='GNU GPL v2',
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
     ],
     keywords='framework',
